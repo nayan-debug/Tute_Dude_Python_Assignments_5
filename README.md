@@ -5,7 +5,8 @@ Here I have uploaded two assignment files of python. Which are named as Task1.py
 Hear we hane created a dictionary as Nayan_dict and pass key as student names and value as marks of student.
 Data on dictionary are :
 
-                       | student name |  Marks |       
+                       | student name |  Marks | 
+                       -------------------------
                        | Nayan        |      30|
                        | Moni         |      40|
                        | Deka         |      50|
